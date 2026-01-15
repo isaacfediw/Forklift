@@ -3,6 +3,7 @@ This project is a remote controlled electric forklift that I made with a partner
   
 ## Electrical Hardware
 The electrical hardware for this project consisted of a Rasberry Pi 4, a custom made pcb, two dc motor drivers, and two stepper motor drivers  
+The forklift had two modes; automatic and manual. When in manual mode it was controlled via bluetooth with an XBox One controller  
   
 ## Software
 The mechanical design of the forklift was done in Fusion 360. The design files are included in this project in case you're interested  
