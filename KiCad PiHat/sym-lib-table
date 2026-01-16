@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Lec18-PCB_kicad-rescue")(type "KiCad")(uri "${KIPRJMOD}/Lec18-PCB_kicad-rescue.kicad_sym")(options "")(descr ""))
+)
